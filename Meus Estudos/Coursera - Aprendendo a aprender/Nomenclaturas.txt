@@ -1,5 +1,0 @@
-T                              - Título Máteria como um todo
-NF(Ler o artigo da página 999) - Não feito/Pendência 
-TC                             - Título do conteúdo referente a matéria(T)
-OBS                            - Observação
-
